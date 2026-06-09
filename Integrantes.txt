@@ -1,8 +1,0 @@
-SatAlert – Sistema de Monitoramento de Queimadas e Desmatamento via Satélite
-
-Integrantes
-•	Andrei de Paiva Gibbini – RM 563061
-•	Pedro Sakai Silva Zambaca – RM 565956
-•	Pedro Santos Pequini – RM 561842
-•	Arthur Câmara – RM 562310
-•	Diogo Cunha – RM 563654
